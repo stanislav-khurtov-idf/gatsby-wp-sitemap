@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-wp-sitemap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "sitemap",
+    "seo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislav-khurtov-idf/gatsby-wp-sitemap"
+  }
+}
