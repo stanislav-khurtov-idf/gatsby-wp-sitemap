@@ -11,5 +11,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stanislav-khurtov-idf/gatsby-wp-sitemap"
-  }
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
 }
