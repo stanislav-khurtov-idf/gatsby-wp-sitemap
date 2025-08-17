@@ -1,6 +1,6 @@
 {
   "name": "@stanislavkhurtov/gatsby-wp-sitemap",
-  "private": "false",
+  "private": false,
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
